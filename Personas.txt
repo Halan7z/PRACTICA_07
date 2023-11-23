@@ -1,0 +1,5 @@
+Alan;Flores;Programacion I;100
+Michael;Schumacher;Ecuaciones Diferenciales;100
+Max;Verstappen;Algebra Lineal;100
+Charles;Leclerc;Calculo II;100
+Lando;Norris;Antropologia Cristiana;100
